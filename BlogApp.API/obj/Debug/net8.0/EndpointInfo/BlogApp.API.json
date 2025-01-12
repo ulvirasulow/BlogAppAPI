@@ -97,6 +97,18 @@
         }
       }
     },
+    "/api/Blogs": {
+      "get": {
+        "tags": [
+          "Blogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Category/{id}": {
       "get": {
         "tags": [
@@ -258,7 +270,9 @@
     "securitySchemes": {
       "Bearer": {
         "type": "http",
-        "scheme": "Bearer"
+        "description": "JWT Bearer authorization",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
       }
     }
   },

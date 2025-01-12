@@ -14,6 +14,7 @@ namespace BlogApp.Business.Helpers.Mapper
         public BlogProfile()
         {
             CreateMap<GetBlogDto, Blog>().ReverseMap();
+            CreateMap<AuthorGetDto, AppUser>().ReverseMap();
         }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BlogApp.Business.DTOs.Category;
 using BlogApp.Business.Helpers.Exceptions.CategoryExceptions;
+using BlogApp.Business.Helpers.Exceptions.Common;
 using BlogApp.Business.Services.Interfaces;
 using BlogApp.Core.Entities;
 using BlogApp.DAL.Context;
@@ -30,7 +31,7 @@ namespace BlogApp.API.Controllers
             {
                 return Ok(categoryService.GetById(id));
             }
-            catch (CategoryNullException ex)
+            catch (NotFoundException<Category> ex)
             {
                 return NotFound(ex.Message);
             }

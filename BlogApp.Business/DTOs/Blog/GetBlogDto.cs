@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BlogApp.Core.Entities;
 
 namespace BlogApp.Business.DTOs.Blog
 {
@@ -10,7 +11,8 @@ namespace BlogApp.Business.DTOs.Blog
     {
         public string Title { get; set; }
         public string Description { get; set; }
-        public string Author { get; set; }
-        public List<Core.Entities.Category> Categories { get; set; }
+        public string AuthorId { get; set; }
+        public AuthorGetDto Author { get; set; }
+        public ICollection<BlogsCategories> BlogsCategories { get; set; }
     }
 }

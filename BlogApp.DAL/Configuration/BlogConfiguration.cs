@@ -16,9 +16,9 @@ namespace BlogApp.DAL.Configuration
             builder.Property(x => x.Title).IsRequired();
             builder.Property(x => x.Description).IsRequired();
 
-            builder.HasOne(x => x.User)
+            builder.HasOne(x => x.Author)
                 .WithMany(u => u.Blogs)
-                .HasForeignKey(x => x.AppUserId);
+                .HasForeignKey(x => x.AuthorId);
 
         }
     }

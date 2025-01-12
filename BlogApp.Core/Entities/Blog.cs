@@ -12,8 +12,8 @@ namespace BlogApp.Core.Entities
         public string Title { get; set; }
         public string Description { get; set; }
         public int ViewerCount { get; set; }
-        public string AppUserId { get; set; }
-        public AppUser User { get; set; }
+        public string AuthorId { get; set; }
+        public AppUser Author { get; set; }
         public ICollection<BlogsCategories> BlogsCategories { get; set; }
     }
 }

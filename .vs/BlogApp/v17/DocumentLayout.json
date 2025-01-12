@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\helpers\\mapper\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\helpers\\mapper\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\dtos\\blog\\getblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\dtos\\blog\\getblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E5FE5E4-0AA3-4EF5-8FD2-46E28DDC608A}|BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E5FE5E4-0AA3-4EF5-8FD2-46E28DDC608A}|BlogApp.DAL\\BlogApp.DAL.csproj|solutionrelative:blogapp.dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.core\\entities\\blogscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\blogscategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559A7749-7577-44E8-B351-04CD5E1D41B9}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|c:\\users\\ulvir\\onedrive\\desktop\\firstapi\\blogapp.business\\helpers\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093A4E20-330F-4AF2-9EF6-0B59B183B477}|BlogApp.Business\\BlogApp.Business.csproj|solutionrelative:blogapp.business\\helpers\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlogProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Helpers\\Mapper\\BlogProfile.cs",
-              "RelativeDocumentMoniker": "BlogApp.Business\\Helpers\\Mapper\\BlogProfile.cs",
-              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Helpers\\Mapper\\BlogProfile.cs",
-              "RelativeToolTip": "BlogApp.Business\\Helpers\\Mapper\\BlogProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "BlogApp.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "BlogApp.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:07:01.351Z",
+              "WhenOpened": "2025-01-12T20:27:06.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "RelativeToolTip": "BlogApp.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:26:39.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Services\\Implementations\\BlogService.cs",
-              "RelativeDocumentMoniker": "BlogApp.Business\\Services\\Implementations\\BlogService.cs",
-              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Services\\Implementations\\BlogService.cs",
-              "RelativeToolTip": "BlogApp.Business\\Services\\Implementations\\BlogService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:05:17.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeDocumentMoniker": "BlogApp.Business\\Services\\Interfaces\\IBlogService.cs",
-              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Services\\Interfaces\\IBlogService.cs",
-              "RelativeToolTip": "BlogApp.Business\\Services\\Interfaces\\IBlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:04:20.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\Category.cs",
               "RelativeToolTip": "BlogApp.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:01:11.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetBlogDto.cs",
-              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\DTOs\\Blog\\GetBlogDto.cs",
-              "RelativeDocumentMoniker": "BlogApp.Business\\DTOs\\Blog\\GetBlogDto.cs",
-              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\DTOs\\Blog\\GetBlogDto.cs",
-              "RelativeToolTip": "BlogApp.Business\\DTOs\\Blog\\GetBlogDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:54:36.169Z",
+              "WhenOpened": "2025-01-12T16:58:44.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DALServiceRegistrations.cs",
-              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.DAL\\DALServiceRegistrations.cs",
-              "RelativeDocumentMoniker": "BlogApp.DAL\\DALServiceRegistrations.cs",
-              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.DAL\\DALServiceRegistrations.cs",
-              "RelativeToolTip": "BlogApp.DAL\\DALServiceRegistrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Title": "BlogsCategories.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\BlogsCategories.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\BlogsCategories.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\BlogsCategories.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\BlogsCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:51:58.368Z",
+              "WhenOpened": "2025-01-12T16:58:41.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\Blog.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:58:38.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "BlogApp.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:58:34.916Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BlogApp.Business\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "BlogApp.Business\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:36:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Helpers\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BlogApp.Business\\Helpers\\Exceptions\\Common\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\FirstAPI\\BlogApp.Business\\Helpers\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeToolTip": "BlogApp.Business\\Helpers\\Exceptions\\Common\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:34:29.031Z"
             }
           ]
         }

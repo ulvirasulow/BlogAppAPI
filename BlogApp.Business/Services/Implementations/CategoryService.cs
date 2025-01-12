@@ -58,10 +58,9 @@ namespace BlogApp.Business.Services.Implementations
             {
                 throw new NegativeIdException();
             }
-
-            GetCategoryDto dto = _mapper.Map<GetCategoryDto>(await _rep.GetById(id));
-
-            return dto != null ? dto : throw new CategoryNullException();
+            var dto = await _rep.GetById(id);
+            GetCategoryDto newDto = _mapper.Map<GetCategoryDto>(dto);
+            return newDto != null ? newDto : throw new NotFoundException<Category>();
         }
 
         public async Task SoftDelete(int id)
